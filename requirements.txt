@@ -1,0 +1,4 @@
+click == 7.1.2
+yaml == 0.2.5
+pyqt == 5.9.2
+pathlib2 == 2.3.5
